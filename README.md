@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm FearxBlaze</h1>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ainwen03" alt="ainwen03" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fearxblaze03" alt="fearxblaze03" /></a> </p>
 
 - 🌱 I’m currently learning **Python**
 
