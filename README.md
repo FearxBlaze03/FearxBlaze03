@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm 𝑭𝒆𝒂𝒓𝒙𝑩𝒍𝒂𝒛𝒆</h1>
+  <h1 align="center">Hi 👋, I'm 𝑭𝒆𝒂𝒓𝒙𝑩𝒍𝒂𝒛𝒆</h1>
 <h3 align="center">𝑩𝒖𝒊𝒍𝒅𝒊𝒏𝒈 𝒕𝒐𝒎𝒐𝒓𝒓𝒐𝒘'𝒔 𝒔𝒐𝒍𝒖𝒕𝒊𝒐𝒏𝒔, 𝒐𝒏𝒆 𝒄𝒐𝒎𝒎𝒊𝒕 𝒂𝒕 𝒂 𝒕𝒊𝒎𝒆 🔧</h3>
 
 - 🌱 I’m currently learning **Python**
 
-- 📫 How to reach me **@FearxBlaze05 ON TG**
+- 📫 How to reach me **@FearxBlaze05 ON TELEGRAM**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
